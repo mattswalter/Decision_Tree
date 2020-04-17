@@ -1,7 +1,5 @@
-# CISC684_Decision_Tree
+# Decision Tree
 ## BY: Eric Allen, Matthew Walter, Murugesan Somasundaram
-
-Requires: Python3.6
 
 Libraries: Pandas, os, sys, copy, math, random
 
